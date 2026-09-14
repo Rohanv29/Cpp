@@ -1,0 +1,1 @@
+Check(arr,n)?"Sorted":"Not Sorted"
